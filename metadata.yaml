@@ -32,6 +32,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36527#V-lsk-rin-kertomuksia-5Vapaa-ajattelija.-Iltamyrskyj-.-Aamun-valkeneminen.
 gutenberg_issued: '2011-06-26'
 gutenberg_type: Text
 identifiers:
